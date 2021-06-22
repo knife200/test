@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
+int main()
+{
+int j=0;
+FILE *fp;
+
+
+
+return 0;
+
+}
