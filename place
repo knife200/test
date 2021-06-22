@@ -7,6 +7,12 @@ int main()
 int j=0;
 FILE *fp;
 
+fp=fopen("file.txt","w+");
+if(fp=NULL)
+{
+
+puts("나가");
+}
 
 
 return 0;
