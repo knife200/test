@@ -12,6 +12,7 @@ if(fp=NULL)
 {
 puts("aaa");
 puts("나가");
+puts("bbbbb");
 }
 
 
